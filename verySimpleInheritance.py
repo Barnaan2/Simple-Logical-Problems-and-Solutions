@@ -72,5 +72,5 @@ def welcome():
         print('The number you have entered is out of range please choose from 1 - 3: ')
         welcome()
 
-# The main place to  of play
+# The main place to  play
 welcome()
