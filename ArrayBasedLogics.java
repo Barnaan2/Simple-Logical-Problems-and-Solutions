@@ -1,7 +1,9 @@
 /*
 solutions  of basic logical problems.
+1. The problem solved here is to count the element of an array only if they are the same numbers
+2. The second one is to  count how much the same number reapt it self in array, but you don't count the number if its two times
 @Barnaan2
-
+ 
 
 */
 import java.util.Scanner;
