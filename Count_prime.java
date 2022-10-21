@@ -15,8 +15,6 @@ class Problems{
 		}
 		return count;
 	}
-
-
 	public static void main(String[] args){
 		int prime = primeCount(10,30);
 		System.out.println(prime);
