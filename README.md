@@ -1,2 +1,2 @@
 # Simple-Logical-Problems-With-Solutions
-Here is a program for different logical problems. you can participate and push your logical question with the solution you have provided for it.
+Here is a repo for different logical problems. you can participate and push your logical question along with its solution you have provided for it.
