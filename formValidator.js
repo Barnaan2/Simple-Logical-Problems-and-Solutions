@@ -4,7 +4,7 @@ Create a java Script code that can validate a form to the extreme ;
 example of html form to be validated is 
 
 <form  id="form" name="myform" action=""> 
-        <h3 id="title"> Avdvanced Form Validation </h3>
+        <h3 id="title "> Avdvanced Form Validation </h3>
 
         <section>
             <p id="password_error"></p>
