@@ -56,7 +56,7 @@ let formValidator = ()=>{
 
  else if(password.value.length >= 6){
     if (verify_password.value !== password.value){
-    errorMessage.innerHTML = "Password Did Not Match,Retpye Your Password Correctly In both fields";
+    errorMessage.innerHTML = "Password Did Not Match,Retype Your Password Correctly In both fields";
     errorMessage.style.display = "block";
     valid_password = false
     
