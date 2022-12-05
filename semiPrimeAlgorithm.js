@@ -1,5 +1,5 @@
 /*
-               SemiPrimeCount  {  By @Barnaan2 }
+               SemiPrimeCount  {  By @Barnaan2 deal with it}
 
 Create a semiPrimeCount() function that takes in an integer, n, 
 and returns the count of semi-prime numbers from 1 to n, non-inclusive.
