@@ -1,6 +1,6 @@
 
 /*
-Create a java Script code that can validate a form to the extreme ;
+Create a javaScript code that can validate a form to the extreme ;
 example of html form to be validated is 
 
 <form  id="form" name="myform" action=""> 
