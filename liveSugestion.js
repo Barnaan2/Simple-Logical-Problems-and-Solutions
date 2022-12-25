@@ -1,6 +1,7 @@
 /*
 CREATE A VERY OPTIMANL sugestion for searching a github user:
 for the provided Html ;
+user it for any purpose
 
 <<solved>>
 
