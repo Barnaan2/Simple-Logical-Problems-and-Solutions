@@ -105,5 +105,8 @@ const searchForm = document.searchForm
 searchForm.addEventListener('submit',(e)=>{
     e.preventDefault();
     searchedValue = document.querySelector('.searchInputField').value
-search(searchedValue);
+    if(searchedValue){
+      search(searchedValue);
+    }
+
 });
